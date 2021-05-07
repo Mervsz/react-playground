@@ -1,5 +1,5 @@
 class BookCase extends React.Component {
-  // props available here is id and shelfCount see line 108 where we assign the props
+  // props available here is id and shelfCount see line 124 where we assign the props
 
   // populate data depends on the this.props.shelfCount value
   populateBookShelf = () => {
